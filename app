@@ -3,10 +3,10 @@
 
   "scertGfxAds" : {
       
-      "NetworkAds" : "admob",
+      "NetworkAds" : "Facebool",
 
-    "AdmobBanner" : "ca-app-pub-3898990165445847/2574133153",
-	"AdmobInterstitial" : "ca-app-pub-3898990165445847/5921339468",
+    "AdmobBanner" : "",
+	"AdmobInterstitial" : "",
 	
 	"FacebookbBanner" : "2935117766720566_2935119123387097",
 	"FacebookbSelectBanner" : "2935117766720566_2935118263387183",
