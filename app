@@ -3,7 +3,7 @@
 
   "scertGfxAds" : {
       
-      "NetworkAds" : "Facebool",
+      "NetworkAds" : "Facebook",
 
     "AdmobBanner" : "",
 	"AdmobInterstitial" : "",
